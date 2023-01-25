@@ -1,3 +1,5 @@
 # ⚠️ PROJETO EM DESENVOLVIMENTO ⚠️
 
-Data Science Project - Séries temporais &amp; Machine Learning + Análise exploratória
+- Análise exploratória + visualização de dados: Concluído ✅
+- Séries temporais: Em andamento ⌛️
+- Machine Learning: To do ❌
